@@ -18,7 +18,6 @@ AutoStake AI is an *autonomous AI-powered staking agent* that optimizes staking 
 
 ## 🔗 *Live Demo & Repository*
 - *Frontend:* [AutoStake AI](https://autostake-ai.netlify.app/)  
-- *Backend:* Hosted on *Render*  
 - *GitHub Repository:* https://github.com/Deepakk2004/AutoStake-AI
 
 ---
