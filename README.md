@@ -19,7 +19,7 @@ AutoStake AI is an *autonomous AI-powered staking agent* that optimizes staking 
 ## 🔗 *Live Demo & Repository*
 - *Frontend:* [AutoStake AI](https://autostake-ai.netlify.app/)  
 - *Backend:* Hosted on *Render*  
-- *GitHub Repository:* [🔗 Link Here]  
+- *GitHub Repository:* https://github.com/Deepakk2004/AutoStake-AI
 
 ---
 
@@ -178,10 +178,15 @@ Response:
 ## *🚀 How It Works*
 
 1️⃣ User connects wallet (MetaMask, WalletConnect).
+
 2️⃣ Venice AI suggests the best staking strategy.
+
 3️⃣ ElizaOS autonomously executes the staking.
+
 4️⃣ Transactions are securely processed using Safe Smart Accounts.
+
 5️⃣ Lit Agent Wallet signs the transaction.
+
 6️⃣ Funds are staked on the best available platform (e.g., Lido, Rocket Pool).
 
 
