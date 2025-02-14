@@ -47,8 +47,8 @@ AutoStake AI is an *autonomous AI-powered staking agent* that optimizes staking 
 ## 📥 *Installation & Setup*
 ### *1️⃣ Clone the Repository*
 ```sh
-git clone https://github.com/your-username/autostake-ai.git
-cd autostake-ai
+git clone https://github.com/Deepakk2004/AutoStake-AI
+cd AutoStake-AI
 ```
 
 ---
